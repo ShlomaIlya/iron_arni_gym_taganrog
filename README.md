@@ -1,1 +1,0 @@
-# iron_arni_gym_taganrog
